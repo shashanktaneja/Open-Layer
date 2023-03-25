@@ -1,0 +1,11 @@
+.map {
+    height: 800px;
+    width: 100%;
+    /* float: left; */
+}
+
+.pano-image{
+  width: 50%;
+  height: 800px;
+  /* float: right; */
+}
